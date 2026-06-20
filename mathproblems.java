@@ -12,7 +12,7 @@ public class mathproblems {
         System.out.println("roundof:"+Math.round(2.6));
         System.out.println("rouding using ceil method:"+Math.ceil(2.1));//rounds up (returns the smallest integer greater than or equal to x)
         System.out.println("rounding with floor:"+Math.floor(2.1));//rounds down (returns the largest integer less than or equal to x)
-
+         System.out.println("random number:"+Math.random());// returns a random number between 0.0 (inclusive), and 1.0 (exclusive):
     }
     
 }
