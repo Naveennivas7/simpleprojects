@@ -28,7 +28,11 @@ public class Casting {
       System.out.println(mylong);
       int myint=(int) mylong;
       System.out.println(myint);
-      
+      short myshort=(short) myint;
+      System.out.println(myshort);
+      byte mybyte=(byte) myshort;
+      System.out.println(mybyte);
+
 
 
 
