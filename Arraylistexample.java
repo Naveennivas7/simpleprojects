@@ -32,6 +32,6 @@ public class Arraylistexample {
         }
 System.out.println(list);
 
-
+s.close();
     }
 }
